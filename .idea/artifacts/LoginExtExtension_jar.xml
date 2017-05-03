@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LoginExtExtension:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoginExtExtension_jar</output-path>
+    <root id="archive" name="LoginExtExtension.jar">
+      <element id="module-output" name="LoginExtExtension" />
+      <element id="extracted-dir" path="D:/SmartFoxServer_2X/SFS2X/lib/sfs2x.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/SmartFoxServer_2X/SFS2X/lib/sfs2x-core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
